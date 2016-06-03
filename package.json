@@ -1,0 +1,38 @@
+{
+  "name": "loveboat-defaults",
+  "version": "0.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "lab -a code -t 100 -L",
+    "coveralls": "lab -r lcov | coveralls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devinivy/loveboat-defaults.git"
+  },
+  "keywords": [],
+  "author": "Devin Ivy <devin@bigroomstudios.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devinivy/loveboat-defaults/issues"
+  },
+  "homepage": "https://github.com/devinivy/loveboat-defaults#readme",
+  "dependencies": {
+    "hoek": "4.x.x",
+    "joi": "8.x.x"
+  },
+  "peerDependencies": {
+    "loveboat": ">=1.2.1 <2.0.0"
+  },
+  "devDependencies": {
+    "code": "3.x.x",
+    "coveralls": "2.x.x",
+    "hapi": "13.x.x",
+    "lab": "10.x.x",
+    "loveboat": ">=1.2.1 <2.0.0"
+  }
+}
