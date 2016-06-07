@@ -1,6 +1,6 @@
 {
   "name": "loveboat-defaults",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "support hapi route configuration defaults",
   "main": "lib/index.js",
   "directories": {
