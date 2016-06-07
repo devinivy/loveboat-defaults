@@ -14,7 +14,15 @@
     "type": "git",
     "url": "git+https://github.com/devinivy/loveboat-defaults.git"
   },
-  "keywords": [],
+  "keywords": [
+    "hapi",
+    "utility",
+    "preprocessor",
+    "route",
+    "routes",
+    "plugin",
+    "defaults"
+  ],
   "author": "Devin Ivy <devin@bigroomstudios.com>",
   "license": "MIT",
   "bugs": {
