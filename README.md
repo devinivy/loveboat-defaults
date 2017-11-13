@@ -5,6 +5,8 @@ support hapi route configuration defaults
 
 [![Build Status](https://travis-ci.org/devinivy/loveboat-defaults.svg?branch=master)](https://travis-ci.org/devinivy/loveboat-defaults) [![Coverage Status](https://coveralls.io/repos/devinivy/loveboat-defaults/badge.svg?branch=master&service=github)](https://coveralls.io/github/devinivy/loveboat-defaults?branch=master)
 
+Lead Maintainer - [Devin Ivy](https://github.com/devinivy)
+
 ## Usage
 In hapi route defaults can be specified for a connection, but not on a per-plugin basis.  This loveboat transform allows you to define route defaults per plugin.
 
